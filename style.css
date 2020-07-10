@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+    background-image: url(images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    
+}
+
+h1{
+    margin: 10px;
+    display: inline-block;
+    font-size: 50px;
+    background-color: #660d18d2;
+    color: white;
+    width: 100px;
+    
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #4b171e;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+/* h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    color: #3e272a;
+} */
+button{
+    background-color: #660d18d2;
+    color: white;
+    font-size: 40px;
+    width: 150px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+
+}  
+button:hover{
+    color: white;
+    background-color: rgb(163, 9, 22);
+}
+button:focus{
+    outline: none;
+}
+.one:hover{
+    color: rgb(31, 107, 250);
+    cursor: pointer;
+}
+.two:hover{
+    color: rgb(245, 203, 18);
+    cursor: pointer;
+}
+.three:hover{
+    color: rgb(31, 107, 250);
+    cursor: pointer;
+}
+.four:hover{
+    color: rgb(245, 203, 18);
+    cursor: pointer;
+}
+.five:hover{
+    color: rgb(31, 107, 250);
+    cursor: pointer;
+}
+.six:hover{
+    color: rgb(245, 203, 18);
+    cursor: pointer;
+}
+.seven:hover{
+    color: rgb(31, 107, 250);
+    cursor: pointer;
+}
+.eight:hover{
+    color: rgb(245, 203, 18);
+    cursor: pointer;
+}
+.nine:hover{
+    color: rgb(31, 107, 250);
+    cursor: pointer;
+}
